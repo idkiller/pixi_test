@@ -1,0 +1,8 @@
+{
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/pixi.js/6.3.0/browser/pixi.js",
+    "https://cdn.jsdelivr.net/npm/pixi-projection@0.4.3/dist/pixi-projection.umd.js"
+  ],
+  "styles": [],
+  "showConsole": true
+}
